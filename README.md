@@ -3,8 +3,8 @@ Plugin for #MagicGamesVI
 
 -------------------
 
-Author: yNikk
-System: SpongeForge
+Author: yNikk |
+System: SpongeForge |
 Code: Java
 
 -------------------
