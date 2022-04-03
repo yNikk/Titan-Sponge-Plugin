@@ -15,4 +15,4 @@ DieserMagic (Project Owner, Concept)
 
 Virvs (Design, Concept)
 
-Ramil/LuckyTitan (Original Plugin
+Ramil/LuckyTitan (Original Plugin)
