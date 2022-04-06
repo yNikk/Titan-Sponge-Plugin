@@ -3,12 +3,6 @@ Plugin for #MagicGamesVI
 
 -------------------
 
-Author: yNikk |
-System: SpongeForge |
-Code: Java
-
--------------------
-
 **Credits:**
 
 DieserMagic (Project Owner, Concept)
