@@ -1,5 +1,5 @@
 # MagicGames-Plugin
-Plugin for #MagicGamesVI
+Plugin for #MagicGamesV
 
 -------------------
 
