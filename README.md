@@ -1,17 +1,12 @@
-# MagicGames-Plugin
-Plugin for #MagicGamesVI
+# MagicGames/LuckyTitan
+Sponge Plugin used for Titan projects
+2017 type code, not recommended for usage
 
 -------------------
 
 **Credits:**
 
-DieserMagic (Project Owner, Concept)
-
-Virvs (Design, Concept)
-
 Ramil/LuckyTitan (Original Plugin)
-
-Flowtex.EU (Server Sponsor)
 
 -------------------
 
