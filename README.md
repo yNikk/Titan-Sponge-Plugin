@@ -4,7 +4,7 @@
 
 **Credits:**
 
-Ramil/LuckyTitan (Original Plugin)
+Ramil/LuckyTitan (Original Code)
 
 -------------------
 
