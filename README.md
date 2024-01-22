@@ -1,8 +1,6 @@
 # MagicGames/LuckyTitan
-Sponge Plugin used for Titan projects
-2017 type code, not recommended for usage
-
--------------------
+- Sponge Plugin used for Titan projects
+- 2017 type code, not recommended for usage
 
 **Credits:**
 
